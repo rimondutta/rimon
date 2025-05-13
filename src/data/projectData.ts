@@ -46,7 +46,7 @@ export const projectData = [
       category: "UI/UX",
       tools: "Figma, React, Tailwind",
       image: "/images/project6.png",
-      link: "https://github.com/rimondutta/"
+      link: "https://caboosekit.com/"
     },
   ];
   
