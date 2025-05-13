@@ -42,8 +42,8 @@ export const projectData = [
     },
     {
       id: 6,
-      title: "Agency Site",
-      category: "UI/UX",
+      title: "Affiliate website",
+      category: "Webapp",
       tools: "Php, React, Tailwind",
       image: "/images/project6.png",
       link: "https://caboosekit.com/"
